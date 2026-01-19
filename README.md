@@ -42,6 +42,9 @@ sudo apt install memcached
 telnet localhost 11211
 ```
 
+> [!TIP]
+> Узнать порт на котором работает **memcached** можно с помощью утилиты **ss**
+
 ![](pic/PIC002.PNG)
 
 ---
